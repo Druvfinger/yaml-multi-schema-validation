@@ -1,6 +1,6 @@
 car:
   manufacturer: volvo
   model: xc90
-  year: 1994
+  year: "1994"
   attributes: [radio]
   reg: wcb194
