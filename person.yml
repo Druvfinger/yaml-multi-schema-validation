@@ -1,3 +1,8 @@
 person:
   name:
     first_name: Stig
+    last_name: Svensson
+    age: 67
+    class: pro basket
+    start_year: 2000
+    hobbies: korsord
